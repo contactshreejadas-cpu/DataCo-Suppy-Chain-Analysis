@@ -5,10 +5,12 @@ End-to-end supply chain analysis using Excel, SQL, and Power BI to identify deli
 Analyze supply chain operations and delivery performance to identify key factors affecting shipping delays, delivery status and profitability.
 
 ## Dataset
-DataCo SMART Supply Chain for Big Data Analysis
+Raw dataset :
+DataCo SMART Supply Chain for Big Data Analysis (Kaggle)
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis?utm_source=chatgpt.com
 
-The raw dataset was cleaned and transformed before analysis.
-The cleaned dataset used in this project is available in the `data/` folder.
+The raw dataset was cleaned and transformed before analysis.  
+The cleaned dataset used for SQL analysis and dashboard creation is available in the `data/` folder as a compressed ZIP file (`fact_orders.zip`).
 
 ## Tools 
 SQLite
