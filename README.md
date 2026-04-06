@@ -43,13 +43,13 @@ Dashboard Development
 - Created an interactive Power BI dashboard
 - Added KPI cards for key performance metrics
 - Implemented slicers for region, shipping mode, customer segment, market and order status
-- Late delivery risk is consistently high across regions, indicating system-wide inefficiencies.
 
 ## Key Insights
 - Standard Class and Second Class shipping modes show higher delivery delays compared to other modes
 - Same Day shipping demonstrates the best delivery performance
 - First Class shipping mode generates higher average profit per order
 - Delivery delays vary across regions, indicating operational inefficiencies in certain areas
+- Late delivery risk is consistently high across regions, indicating system-wide inefficiencies
 
 ## Dashboard Preview
 ![Dashboard](images/dashboard_preview.png)
